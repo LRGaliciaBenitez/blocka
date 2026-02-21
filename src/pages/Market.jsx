@@ -2,9 +2,9 @@ import React from "react";
 import Header from "../components/Header";
 import MobileMenu from "../components/MobileMenu.jsx";
 import SearchContainer from "../components/SearchContainer.jsx";
-import CardTopCoinsMarket from "../components/cards/cardTopCoinsMarket/CardTopCoinsMarket.jsx";
+import CardTopCoinsMarket from "../components/cards/CardTopCoinsMarket/CardTopCoinsMarket.jsx";
 import CardTrendingMarket from "../components/cards/CardTrendingMarket/CardTrendingMarket.jsx";
-import CardAllCoinsMarket from "../components/cards/cardAllCoinsMarket/CardAllCoinsMarket.jsx";
+import CardAllCoinsMarket from "../components/cards/CardAllCoinsMarket/CardAllCoinsMarket.jsx";
 
 
 const Market = () => {
