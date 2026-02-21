@@ -20,6 +20,7 @@ const MobileMenu = () => {
                 <NavLink
                 to="/"
                 end
+                onClick={toggleMenu}
                 className={({ isActive }) =>
                     `relative block px-4 py-3 mb-4 rounded-lg font-sans font-bold text-lg
                     transition-all duration-300 overflow-hidden
@@ -41,6 +42,7 @@ const MobileMenu = () => {
 
                 <NavLink
                 to="/market"
+                onClick={toggleMenu}
                 className={({ isActive }) =>
                     `relative block px-4 py-3 mb-4 rounded-lg font-sans font-bold text-lg
                     transition-all duration-300 overflow-hidden
@@ -62,6 +64,7 @@ const MobileMenu = () => {
 
                 <NavLink
                 to="/favoritos"
+                onClick={toggleMenu}
                 className={({ isActive }) =>
                     `relative block px-4 py-3 mb-4 rounded-lg font-sans font-bold text-lg
                     transition-all duration-300 overflow-hidden

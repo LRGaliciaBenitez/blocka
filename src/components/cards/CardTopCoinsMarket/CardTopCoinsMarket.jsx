@@ -94,7 +94,7 @@ const CardTopCoinsMarket = () => {
           onClick={() => setPage(p => p - 1)}
           className="px-4 py-2 rounded-lg bg-blue-500 text-sm text-text-primary hover:bg-blue-600 transition md:text-base disabled:opacity-40"
         >
-          ← Anterior
+          ← Prev
         </button>
 
         <span className="text-sm text-text-secondary self-center">
@@ -105,7 +105,7 @@ const CardTopCoinsMarket = () => {
           onClick={() => setPage(p => p + 1)}
           className="px-4 py-2 rounded-lg bg-blue-500 text-sm text-text-primary hover:bg-blue-600 transition md:text-base"
         >
-          Siguiente →
+          Next →
         </button>
       </div>
 
