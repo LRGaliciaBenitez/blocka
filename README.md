@@ -32,6 +32,12 @@ La app consume datos en vivo desde la API de **CoinGecko** y ofrece una experien
 
 ---
 
+## 🔗 Demo en producción
+
+👉 https://blockaa.netlify.app/ 
+
+---
+
 ## 🚀 Cómo ejecutar el proyecto localmente
 
 1. Clona el repositorio:
