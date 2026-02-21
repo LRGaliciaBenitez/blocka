@@ -2,7 +2,7 @@ import React from "react"
 import Header from "../components/Header"
 import MobileMenu from "../components/MobileMenu.jsx"
 import CardTopCoins from "../components/cards/cardTopCoins/CardTopCoins.jsx"
-import CardTrending from "../components/cards/cardTrending/CardTrending.jsx"
+import CardTrending from "../components/cards/CardTrending/CardTrending.jsx"
 import SearchContainer from "../components/SearchContainer.jsx"
 
 const Home = () => {
